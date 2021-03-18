@@ -1,0 +1,46 @@
+
+/* *{
+    outline: 1px solid red;
+} */
+
+
+
+.empower-image {
+    background-image: url(https://www.deere.com/assets/images/common/home-page/march-hero-1366x347.jpg);
+    background-size: cover;
+    height: 300px;
+}
+
+.tractor1 {
+    background-image: url(https://www.deere.com/assets/images/common/home-page/see-spray-left-632x384.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+}
+.tractor2 {
+    background-image: url(https://www.deere.com/assets/images/common/home-page/9series-right-632x384.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+}
+.tractor3 {
+    background-image: url(https://www.deere.com/assets/images/common/home-page/ag-march-5m-teaser-632x384.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+}
+.tractor4 {
+    background-image: url(https://www.deere.com/assets/images/common/home-page/buyonline3-nmb.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 50%;
+}
+
+body {
+    background-color: white;
+}
